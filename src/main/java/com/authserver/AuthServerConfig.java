@@ -56,6 +56,8 @@ public class AuthServerConfig extends AuthorizationServerConfigurerAdapter {
 		oauthServer.checkTokenAccess("permitAll()"); 
 	}
 
+	
+	
 }
 
 
